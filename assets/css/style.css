@@ -1672,3 +1672,9 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.containerhh {  
+      display: flex;
+      gap: 20px; /* espaçamento entre os cards */
+      justify-content: center; /* centraliza os cards */
+}
