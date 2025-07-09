@@ -658,7 +658,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: linear-gradient(90deg, #1897f880 0%, #1897f880 100%), url("../img/counts-bg.png") center center no-repeat;
+  background: linear-gradient(90deg, #1897f8c9 0%, #50b3ffcc 100%), url("../img/counts-bg.png") center center no-repeat;
   padding: 80px 0 60px 0;
 }
 
@@ -875,7 +875,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #b1a9fc;
+  color: #509afa;
   font-size: 26px;
 }
 
